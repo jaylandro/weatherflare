@@ -1,6 +1,6 @@
-# 👷 `worker-template` Hello World
+# 👷 `worker-template` Weatherflare
 
-A template for kick starting a Cloudflare worker project.
+https://weatherflare.adhocracy.workers.dev/
 
 [`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
 
