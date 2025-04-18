@@ -1,4 +1,4 @@
-# 👷 `worker-template` Weatherflare
+# 👷 Cloudflare workers geolocation based weather forecast 
 
 https://weatherflare.adhocracy.workers.dev/
 
